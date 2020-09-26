@@ -1,9 +1,6 @@
 <a href="https://github.com/codyi96">
   <img src="https://github-readme-stats.vercel.app/api?username=codyi96&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/codyi96">
-  <img src="https://github.githubassets.com/images/mona-whisper.gif" />
-</a>
 
 <!--
 **codyi96/codyi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
