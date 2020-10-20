@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=codyi96)
+![https://github.com/codyi96](https://komarev.com/ghpvc/?username=codyi96)
 
-![](https://github-readme-stats.vercel.app/api?username=codyi96&count_private=true&show_icons=true&include_all_commits=true)
+![https://github.com/codyi96](https://github-readme-stats.vercel.app/api?username=codyi96&count_private=true&show_icons=true&include_all_commits=true)
 
 <!--
 **codyi96/codyi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
